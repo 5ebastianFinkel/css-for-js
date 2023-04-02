@@ -1,0 +1,4 @@
+# files added by intelliJ
+.idea
+huckleberry/.idea
+**/node_modules/
